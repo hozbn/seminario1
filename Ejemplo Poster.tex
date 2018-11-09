@@ -1,0 +1,57 @@
+\documentclass[a0paper]{tikzposter} %Options for format can be included here
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{authblk}
+\usepackage{amsmath}
+\usepackage{blindtext}
+\usepackage{graphicx}
+\usepackage{multicol}
+% Title, Author, Institute
+\title{\parbox{\linewidth}{\centering Evaluación de Estrategias de Obtención de Mediciones EIT para Rastreo de Dispersión de líquidos.}}
+\author{O. F. Cándido-Sánchez}
+\institute{Instituto Tecnológico de Morelia}
+\titlegraphic{\includegraphics[width=5in]{Logo.jpg}}
+%Choose Layout
+\usetheme{Rays}
+% Title block with title, author, logo, etc.
+\begin{document}
+\maketitle
+\begin{columns}
+%COLUMN 1
+%Block A
+  \column{.65}
+  \block{Más ejemplos de LaTeX}{
+  \bigskip
+  Se puede agregar cosas en cuadros de colores.\\
+  \coloredbox{\begin{itemize}
+    \item Point 1
+    \item Point 2
+  \end{itemize}}
+  \blindtext[1]
+  \innerblock{Aqui se agregara algo de matemáticas}
+  {\begin{center}
+    $2^5+5$
+  \end{center}
+  }
+  }
+%Block B
+\block{Mas texto}{
+\blindtext[1]
+}
+%COLUMN 2
+    \column{.35}
+    \block{Mas imagenes}{
+    \begin{tikzfigure}
+      \label{fig:MyFigure}
+      \includegraphics[width=7in]{example-image-a}
+    \end{tikzfigure}
+    \blindtext[1]
+}
+\end{columns}
+
+\block{Penúltimo párrafo}
+\blindtext[1]
+
+\block{Último párrafo}
+\blindtext[1]
+\end{document}

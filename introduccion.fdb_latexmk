@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex introduccion"] 1541628525 "introduccion.aux" "introduccion.bbl" "introduccion" 1541628530
+["bibtex introduccion"] 1541630116 "introduccion.aux" "introduccion.bbl" "introduccion" 1541630168
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/bibtex/bst/ieeetran/IEEEtran.bst" 1440618969 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
   "bibliography.bib" 1541625697 3686 8f0998a6912fcfc68fe849e596d72b0f ""
-  "introduccion.aux" 1541628529 807 e01a6c03f567e3f465f64cbcb73daec6 ""
+  "introduccion.aux" 1541630167 807 3850dbbb25a2b0980b91b47b99b643fe ""
   (generated)
   "introduccion.blg"
   "introduccion.bbl"
-["pdflatex"] 1541628527 "introduccion.tex" "introduccion.pdf" "introduccion" 1541628530
+["pdflatex"] 1541630165 "introduccion.tex" "introduccion.pdf" "introduccion" 1541630168
   "C:/Users/osben/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1538060761 4161092 c9cbea1df77f2562d8c3a7df3c1cb147 ""
   "C:/Users/osben/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1541015696 83721 56dfc66f96b4bc7777806d83f0266370 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -73,10 +73,10 @@
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/preprint/authblk.sty" 1369145270 7196 985a983ce041cc8959cd31133cba0244 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/psnfss/ot1ptm.fd" 1137135830 961 15056f4a61917ceed3a44e4ac11fcc52 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/subfig/subfig.sty" 1121302610 22049 9ef165ca6df8815c92e693146a376c92 ""
-  "introduccion.aux" 1541628529 807 e01a6c03f567e3f465f64cbcb73daec6 ""
-  "introduccion.bbl" 1541628527 1559 30a9713bccef16bf2c147e104506e4d9 "bibtex introduccion"
-  "introduccion.tex" 1541626316 2394 b81c967b9c33d2ff65016ca7f17e7ce1 ""
+  "introduccion.aux" 1541630167 807 3850dbbb25a2b0980b91b47b99b643fe ""
+  "introduccion.bbl" 1541630117 1576 22637a4a5332a0a7b996462ad445b9d4 "bibtex introduccion"
+  "introduccion.tex" 1541630163 2345 4734d3a35e756280683d6741bfb3b823 ""
   (generated)
   "introduccion.pdf"
-  "introduccion.log"
   "introduccion.aux"
+  "introduccion.log"
