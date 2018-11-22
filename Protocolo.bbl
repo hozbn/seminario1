@@ -33,9 +33,26 @@ J.~A. Gutierrez~Gnecchi, ``{Propuesta de proyecto de investigación y
 Y.~Zou and Z.~Guo, ``{A review of electrical impedance techniques for breast
   cancer detection},'' 2003.
 
-\bibitem{Gnecchi2012}
-J.~A. Gutierrez~Gnecchi, ``{Propuesta de proyecto de investigación y
-  evaluacion de la utilidad de la espectroscopia de impedancia eléctrica de
-  alta frecuencia para detección de cáncer de mama},'' 2012.
+\bibitem{Mendoza2012}
+L.~A. Mendoza~Gómez, ``{Investigacion de la Utilidad de la Espectroscopia de
+  Impedancia Eléctrica de Alta Frecuencia para Detección de Cáncer de
+  Mama.}'' 2012.
+
+\bibitem{Wang2011}
+Q.~Wang and H.~Wang, ``{Image reconstruction based on expectation maximization
+  method for electrical impedance tomography (EIT),},'' \emph{IEEE
+  International Conference on Imaging Systems and Techniques}.
+
+\bibitem{Teschner2015}
+E.~Teschner, M.~Imhoff, and S.~Leonhardt, ``{Electrical Impedance Tomography:
+  The realisation of regional ventilation Monitoring, 2nd edition.}'' 2015.
+
+\bibitem{Schwan2003}
+H.~P. Schwan and C.~F. Kay, ``{THE CONDUCTIVITY OF LIVING TISSUES},'' 2006.
+
+\bibitem{Gnecchi2010}
+J.~A. Gutierrez~Gnecchi, ``{Voltage Controlled Current Source (VCCS) for
+  Electrical Impedance Tomography Measurements in the Alpha and Beta Dispersion
+  Frequency Ranges.}'' 2010.
 
 \end{thebibliography}

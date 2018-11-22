@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.27)  9 NOV 2018 13:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.27)  15 NOV 2018 09:27
 entering extended mode
 **"./Ejemplo Poster.tex"
 ("Ejemplo Poster.tex"
@@ -744,19 +744,10 @@ Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks30
 \inpenc@posthook=\toks31
 )
-("C:\Users\osben\AppData\Local\Programs\MiKTeX 2.9\tex\latex\preprint\authblk.s
-ty"
-Package: authblk 2001/02/27 1.3 (PWD)
-\affilsep=\skip46
-\@affilsep=\skip47
-\c@Maxaffil=\count122
-\c@authors=\count123
-\c@affil=\count124
-)
 ("C:\Users\osben\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
 y"
 Package: amsmath 2017/09/02 v2.17a AMS math features
-\@mathmargin=\skip48
+\@mathmargin=\skip46
 
 For additional information on amsmath, use the `?' option.
 
@@ -779,13 +770,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 "
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count125
+\inf@bad=\count122
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count126
-\leftroot@=\count127
+\uproot@=\count123
+\leftroot@=\count124
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count128
-\DOTSCASE@=\count129
+\classnum@=\count125
+\DOTSCASE@=\count126
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
@@ -794,15 +785,15 @@ LaTeX Info: Redefining \cdots on input line 596.
 \big@size=\dimen304
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count130
-\c@MaxMatrixCols=\count131
+\macc@depth=\count127
+\c@MaxMatrixCols=\count128
 \dotsspace@=\muskip10
-\c@parentequation=\count132
-\dspbrk@lvl=\count133
+\c@parentequation=\count129
+\dspbrk@lvl=\count130
 \tag@help=\toks33
-\row@=\count134
-\column@=\count135
-\maxfields@=\count136
+\row@=\count131
+\column@=\count132
+\maxfields@=\count133
 \andhelp@=\toks34
 \eqnshift@=\dimen305
 \alignsep@=\dimen306
@@ -811,8 +802,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \totwidth@=\dimen309
 \lineht@=\dimen310
 \@envbody=\toks35
-\multlinegap=\skip49
-\multlinetaggap=\skip50
+\multlinegap=\skip47
+\multlinetaggap=\skip48
 \mathdisplay@stack=\toks36
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
@@ -824,42 +815,42 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 ("C:\Users\osben\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count137
-\c@Blindtext=\count138
-\c@blind@countparstart=\count139
-\blind@countxx=\count140
-\blindtext@numBlindtext=\count141
-\blind@countyy=\count142
-\c@blindlist=\count143
-\c@blindlistlevel=\count144
-\c@blindlist@level=\count145
-\blind@listitem=\count146
-\c@blind@listcount=\count147
-\c@blind@levelcount=\count148
-\blind@mathformula=\count149
-\blind@Mathformula=\count150
-\c@blind@randomcount=\count151
-\c@blind@randommax=\count152
-\c@blind@pangramcount=\count153
-\c@blind@pangrammax=\count154
+\c@blindtext=\count134
+\c@Blindtext=\count135
+\c@blind@countparstart=\count136
+\blind@countxx=\count137
+\blindtext@numBlindtext=\count138
+\blind@countyy=\count139
+\c@blindlist=\count140
+\c@blindlistlevel=\count141
+\c@blindlist@level=\count142
+\blind@listitem=\count143
+\c@blind@listcount=\count144
+\c@blind@levelcount=\count145
+\blind@mathformula=\count146
+\blind@Mathformula=\count147
+\c@blind@randomcount=\count148
+\c@blind@randommax=\count149
+\c@blind@pangramcount=\count150
+\c@blind@pangrammax=\count151
 )
 ("C:\Users\osben\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
 "
 Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
-\c@tracingmulticols=\count155
+\c@tracingmulticols=\count152
 \mult@box=\box72
 \multicol@leftmargin=\dimen311
-\c@unbalance=\count156
-\c@collectmore=\count157
-\doublecol@number=\count158
-\multicoltolerance=\count159
-\multicolpretolerance=\count160
+\c@unbalance=\count153
+\c@collectmore=\count154
+\doublecol@number=\count155
+\multicoltolerance=\count156
+\multicolpretolerance=\count157
 \full@width=\dimen312
 \page@free=\dimen313
 \premulticols=\dimen314
 \postmulticols=\dimen315
-\multicolsep=\skip51
-\multicolbaselineskip=\skip52
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
 \partial@page=\box73
 \last@line=\box74
 \maxbalancingoverflow=\dimen316
@@ -884,15 +875,29 @@ Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
 \@tempa=\box93
 \@tempa=\box94
 \@tempa=\box95
-\c@columnbadness=\count161
-\c@finalcolumnbadness=\count162
+\c@columnbadness=\count158
+\c@finalcolumnbadness=\count159
 \last@try=\dimen317
 \multicolovershoot=\dimen318
 \multicolundershoot=\dimen319
 \mult@nat@firstbox=\box96
 \colbreak@box=\box97
-\mc@col@check@num=\count163
-) ("Ejemplo Poster.aux"
+\mc@col@check@num=\count160
+) ("C:\Users\osben\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\avant.sty
+"
+Package: avant 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Users\osben\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Users\osben\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+
+Package tikzposter Warning: Unknown layouttheme `desert'. on input line 46.
+
+("Ejemplo Poster.aux"
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 LaTeX Info: Redefining \. on input line 8.
@@ -900,32 +905,37 @@ LaTeX Info: Redefining \% on input line 8.
 )
 \openout1 = `"Ejemplo Poster.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
- ABD: EveryShipout initializing macros
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Try loading font information for T1+pag on input line 48.
+
+("C:\Users\osben\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1pag.fd"
+File: t1pag.fd 2001/06/04 font definitions for T1/pag.
+)
+ABD: EveryShipout initializing macros
 ("C:\Users\osben\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
 ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count164
+\scratchcounter=\count161
 \scratchdimen=\dimen320
 \scratchbox=\box98
-\nofMPsegments=\count165
-\nofMParguments=\count166
+\nofMPsegments=\count162
+\nofMParguments=\count163
 \everyMPshowfont=\toks37
-\MPscratchCnt=\count167
+\MPscratchCnt=\count164
 \MPscratchDim=\dimen321
-\MPnumerator=\count168
-\makeMPintoPDFobject=\count169
+\MPnumerator=\count165
+\makeMPintoPDFobject=\count166
 \everyMPtoPDFconversion=\toks38
 )
 ("C:\Users\osben\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
@@ -1020,89 +1030,109 @@ G,.JBIG2,.JB2,.eps]
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<Logo.jpg, id=28, 225.84375pt x 224.84pt>
-File: Logo.jpg Graphic file (type jpg)
-<use Logo.jpg>
-Package pdftex.def Info: Logo.jpg  used on input line 17.
-(pdftex.def)             Requested size: 361.34999pt x 359.79251pt.
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
+<Itmorelia.png, id=28, 401.5pt x 399.4925pt>
+File: Itmorelia.png Graphic file (type png)
+<use Itmorelia.png>
+Package pdftex.def Info: Itmorelia.png  used on input line 48.
+(pdftex.def)             Requested size: 361.34999pt x 359.5643pt.
+LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 48.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <17.28> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 48.
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no 1 in font nullfont!
-File: Logo.jpg Graphic file (type jpg)
-<use Logo.jpg>
-Package pdftex.def Info: Logo.jpg  used on input line 18.
-(pdftex.def)             Requested size: 361.34999pt x 359.79251pt.
+File: Itmorelia.png Graphic file (type png)
+<use Itmorelia.png>
+Package pdftex.def Info: Itmorelia.png  used on input line 50.
+(pdftex.def)             Requested size: 361.34999pt x 359.5643pt.
+LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 50.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <24.88> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 50.
+LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <61.92> not available
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 50.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <61.92> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 50.
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <61.92> not available
-(Font)              size <24.88> substituted on input line 18.
+(Font)              size <24.88> substituted on input line 50.
 
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <43> not available
-(Font)              size <24.88> substituted on input line 18.
+(Font)              size <24.88> substituted on input line 50.
 
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <29.86> not available
-(Font)              size <24.88> substituted on input line 18.
+(Font)              size <24.88> substituted on input line 50.
 
-File: Logo.jpg Graphic file (type jpg)
-<use Logo.jpg>
-Package pdftex.def Info: Logo.jpg  used on input line 18.
-(pdftex.def)             Requested size: 361.34999pt x 359.79251pt.
+File: Itmorelia.png Graphic file (type png)
+<use Itmorelia.png>
+Package pdftex.def Info: Itmorelia.png  used on input line 50.
+(pdftex.def)             Requested size: 361.34999pt x 359.5643pt.
+LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <43> not available
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 67.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <43> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 67.
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 
  []
 
 
-Overfull \hbox (3.9pt too wide) in paragraph at lines 36--36
+Overfull \hbox (3.89998pt too wide) in paragraph at lines 67--67
 [][] 
  []
 
 
 Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 36.
+(blindtext)                 on input line 67.
 
+LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <29.86> not available
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 67.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <29.86> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 67.
 
-Overfull \hbox (4.4pt too wide) in paragraph at lines 36--36
+Overfull \hbox (4.39998pt too wide) in paragraph at lines 67--67
 [][] 
  []
 
 
 Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 40.
+(blindtext)                 on input line 71.
 
-<example-image-a.pdf, id=31, 321.2pt x 240.9pt>
+<example-image-a.pdf, id=36, 321.2pt x 240.9pt>
 File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
-Package pdftex.def Info: example-image-a.pdf  used on input line 49.
+Package pdftex.def Info: example-image-a.pdf  used on input line 80.
 (pdftex.def)             Requested size: 505.89pt x 379.43051pt.
 
 Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 49.
+(blindtext)                 on input line 80.
 
 
 Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 53.
+(blindtext)                 on input line 84.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no ] in font nullfont!
 
 Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 56.
+(blindtext)                 on input line 87.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no ] in font nullfont!
-LaTeX Info: Redefining \. on input line 57.
-LaTeX Info: Redefining \% on input line 57.
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
 [1
 
-{C:/Users/osben/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Logo.jpg>
- <C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/mwe/example-image-
-a.pdf>] ("Ejemplo Poster.aux"
+{C:/Users/osben/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Itmorelia
+.png> <C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/mwe/example-i
+mage-a.pdf>] ("Ejemplo Poster.aux"
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 LaTeX Info: Redefining \. on input line 8.
@@ -1114,22 +1144,24 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 18805 strings out of 492973
- 404023 string characters out of 3126692
- 541376 words of memory out of 3000000
- 22225 multiletter control sequences out of 15000+200000
- 48710 words of font info for 100 fonts, out of 3000000 for 9000
+ 18793 strings out of 492973
+ 404824 string characters out of 3126692
+ 518681 words of memory out of 3000000
+ 22223 multiletter control sequences out of 15000+200000
+ 59103 words of font info for 84 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,84p,828b,1380s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmbx12.pfb><C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmcsc10.pfb><C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/osben/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/osben/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb>
-Output written on "Ejemplo Poster.pdf" (1 page, 92169 bytes).
+ 62i,10n,84p,828b,1465s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+}<C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr17.pfb><C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/osben/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Users/osben/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Users/osben/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/urw/avantgar/uagk8a.pfb>
+Output written on "Ejemplo Poster.pdf" (1 page, 258573 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 125 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 137 words of extra memory for PDF output out of 10000 (max. 10000000)
 

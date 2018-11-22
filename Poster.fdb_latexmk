@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Poster"] 1541714615 "Poster.aux" "Poster.bbl" "Poster" 1541790871
+["bibtex Poster"] 1542834420 "Poster.aux" "Poster.bbl" "Poster" 1542834430
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/bibtex/bst/ieeetran/IEEEtran.bst" 1440618969 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "Poster.aux" 1541790869 409 3130785883e98fcf8ce4eef9e360c6cb ""
-  "bibliography.bib" 1541625697 3686 8f0998a6912fcfc68fe849e596d72b0f ""
+  "Poster.aux" 1542834429 409 dc3bee23bb8381e4828461cffc763583 ""
+  "bibliography.bib" 1542832814 3647 f8a4f2b6be15076c9cef504c6ea0e274 ""
   (generated)
-  "Poster.bbl"
   "Poster.blg"
-["pdflatex"] 1541790856 "Poster.tex" "Poster.pdf" "Poster" 1541790871
+  "Poster.bbl"
+["pdflatex"] 1542834421 "Poster.tex" "Poster.pdf" "Poster" 1542834430
   "C:/Users/osben/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1538060761 4161092 c9cbea1df77f2562d8c3a7df3c1cb147 ""
   "C:/Users/osben/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1541691837 83721 56dfc66f96b4bc7777806d83f0266370 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/ae/aebx12.tfm" 1057858200 6132 8ad25ac1b8f3422e2a7eaeb718e3c843 ""
@@ -32,7 +32,6 @@
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247593067 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247593066 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247593067 36118 fad905eba93cff5bce1e185fe980a177 ""
-  "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb" 1254935040 97155 ffb6880a68751002f414154d64548ca3 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/ae/aebx12.vf" 1057858200 3188 9220059dad8c24eb72c5ca13862eaaa7 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/ae/aecsc10.vf" 1057858200 3368 9fa78448ed544539264bbe54f1d59266 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/ae/aer17.vf" 1057858200 3288 0cea84560e07529ac52b9c435854a210 ""
@@ -158,7 +157,6 @@
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphicx.sty" 1523172385 9339 d0a305975932762117cd1f06a582f896 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/trig.sty" 1523172385 4094 cb9221976ed8a183afad65b59aa8629a ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/ms/everyshi.sty" 1320147591 3987 6aa7c08ff2621006e0603349e40a30a8 ""
-  "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/mwe/example-image-a.pdf" 1522425337 12160 f5a33a472bc2acb8800c3e00764d8ad1 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/epstopdf-base.sty" 1522791045 12095 5337833c991d80788a43d3ce26bd1c46 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/grfext.sty" 1522791045 7075 2fe3d848bba95f139de11ded085e74aa ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/kvoptions.sty" 1522791047 22417 1d9df1eb66848aa31b18a593099cf45c ""
@@ -172,7 +170,6 @@
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/utilities/pgffor.sty" 1440860242 348 8927fde343487e003b01a4c2ca34073b ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/utilities/pgfkeys.sty" 1440860242 274 4cad6e665cc93ac2ac979039a94fa1e1 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/utilities/pgfrcs.sty" 1440860242 325 2bcd023400636339210573e2b3ee298b ""
-  "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/preprint/authblk.sty" 1369145270 7196 985a983ce041cc8959cd31133cba0244 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tikzposter/tikzposter.cls" 1405677640 32429 e87a40909ef8f9fbed457c6cee71561f ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tikzposter/tikzposterBackgroundstyles.tex" 1405677641 2283 9149986e09a9b5391cf73c9807485822 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tikzposter/tikzposterBlockstyles.tex" 1405677641 9406 a0830c552b6a26a810d69c3eb3e0dc56 ""
@@ -187,13 +184,14 @@
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xcolor/xcolor.sty" 1463131981 57049 34128738f682d033422ca125f82e5d62 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xkeyval/xkeyval.sty" 1419270738 5114 9c1069474ff71dbc47d5006555e352d3 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xstring/xstring.sty" 1381653102 144 0ca8d67b000b795a4d9ec000e0fd09c7 ""
-  "Logo.jpg" 1541693672 10937 7fb2f0cec4e698e3106fd67b11174a31 ""
-  "Poster.aux" 1541790869 409 3130785883e98fcf8ce4eef9e360c6cb ""
-  "Poster.bbl" 1541714627 1576 22637a4a5332a0a7b996462ad445b9d4 "bibtex Poster"
-  "Poster.tex" 1541790851 2633 a53404754d145899981b9a5bd2c45cff ""
+  "Itmorelia.png" 1541694522 171028 b336c792295a310104bff5e4d1a113c4 ""
+  "Poster.aux" 1542834429 409 dc3bee23bb8381e4828461cffc763583 ""
+  "Poster.bbl" 1542834420 1534 4a6e144ec027a9e10de87542f7289aba "bibtex Poster"
+  "Poster.tex" 1542834397 3263 cb288af45c24195a8058af862e5b448e ""
+  "imagen1.png" 1542292233 29882 b063a1b72a93fb90bd30f45b7c898f40 ""
   "logo-sep.png" 1541705148 382451 4fe4c109c2b43256229e92022cc1efae ""
   "logo-tecnm.png" 1541705169 93748 7bfa8c65aea045412cd287a69a8dd4c1 ""
   (generated)
-  "Poster.log"
   "Poster.aux"
   "Poster.pdf"
+  "Poster.log"

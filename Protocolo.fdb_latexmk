@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex introduccion"] 1541630116 "introduccion.aux" "introduccion.bbl" "introduccion" 1541630168
+["bibtex Protocolo"] 1542919270 "Protocolo.aux" "Protocolo.bbl" "Protocolo" 1542919477
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/bibtex/bst/ieeetran/IEEEtran.bst" 1440618969 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "bibliography.bib" 1541625697 3686 8f0998a6912fcfc68fe849e596d72b0f ""
-  "introduccion.aux" 1541630167 807 3850dbbb25a2b0980b91b47b99b643fe ""
+  "Protocolo.aux" 1542919476 1251 915f68a5cffaa1161b99c12b80a6eaf7 ""
+  "bibliography.bib" 1542918358 4594 423c3ec8ac1981afd0b6bcc55dd3d73b ""
   (generated)
-  "introduccion.blg"
-  "introduccion.bbl"
-["pdflatex"] 1541630165 "introduccion.tex" "introduccion.pdf" "introduccion" 1541630168
+  "Protocolo.bbl"
+  "Protocolo.blg"
+["pdflatex"] 1542919473 "Protocolo.tex" "Protocolo.pdf" "Protocolo" 1542919477
   "C:/Users/osben/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1538060761 4161092 c9cbea1df77f2562d8c3a7df3c1cb147 ""
-  "C:/Users/osben/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1541015696 83721 56dfc66f96b4bc7777806d83f0266370 ""
+  "C:/Users/osben/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1542903683 83900 99161b983370f35003c35da3c3d29977 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/adobe/times/ptmb7t.tfm" 1136793854 2172 fd0c924230362ff848a33632ed45dc23 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/adobe/times/ptmb8r.tfm" 1136793854 4524 6bce29db5bc272ba5f332261583fee9c ""
@@ -73,10 +73,11 @@
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/preprint/authblk.sty" 1369145270 7196 985a983ce041cc8959cd31133cba0244 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/psnfss/ot1ptm.fd" 1137135830 961 15056f4a61917ceed3a44e4ac11fcc52 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/subfig/subfig.sty" 1121302610 22049 9ef165ca6df8815c92e693146a376c92 ""
-  "introduccion.aux" 1541630167 807 3850dbbb25a2b0980b91b47b99b643fe ""
-  "introduccion.bbl" 1541630117 1576 22637a4a5332a0a7b996462ad445b9d4 "bibtex introduccion"
-  "introduccion.tex" 1541630163 2345 4734d3a35e756280683d6741bfb3b823 ""
+  "Protocolo.aux" 1542919476 1251 915f68a5cffaa1161b99c12b80a6eaf7 ""
+  "Protocolo.bbl" 1542919271 2261 114d9b6fb985deb1a4d264e7973caba1 "bibtex Protocolo"
+  "Protocolo.tex" 1542919472 4988 b42f93214ca4df7ac77f7b98625fda7a ""
+  "imagen1.png" 1542292233 29882 b063a1b72a93fb90bd30f45b7c898f40 ""
   (generated)
-  "introduccion.pdf"
-  "introduccion.aux"
-  "introduccion.log"
+  "Protocolo.pdf"
+  "Protocolo.aux"
+  "Protocolo.log"

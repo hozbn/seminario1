@@ -1,25 +1,56 @@
 \documentclass[a0paper]{tikzposter} %Options for format can be included here
 \usepackage[spanish]{babel}
 \usepackage[utf8]{inputenc}
-\usepackage{authblk}
 \usepackage{amsmath}
 \usepackage{blindtext}
 \usepackage{graphicx}
 \usepackage{multicol}
+
+
+\definecolor{mygray}{HTML}{CCCCCC}
+\definecolorstyle{myColorStyle}{
+\colorlet{colorOne}{black}
+\colorlet{colorTwo}{mygray}
+\colorlet{colorThree}{mygray}
+}{
+% Background Colors
+\colorlet{backgroundcolor}{colorTwo!50}
+\colorlet{framecolor}{colorTwo!50}
+% Title Colors
+\colorlet{titlefgcolor}{white}
+\colorlet{titlebgcolor}{colorOne}
+% Block Colors
+\colorlet{blocktitlebgcolor}{colorTwo!50}
+\colorlet{blocktitlefgcolor}{black}
+\colorlet{blockbodybgcolor}{colorTwo!50}
+\colorlet{blockbodyfgcolor}{black}
+% Innerblock Colors
+\colorlet{innerblocktitlebgcolor}{white}
+\colorlet{innerblocktitlefgcolor}{black}
+\colorlet{innerblockbodybgcolor}{white}
+\colorlet{innerblockbodyfgcolor}{black}
+}
+\usecolorstyle{myColorStyle}
+\usetitlestyle{Wave}
+\useblockstyle{Minimal}
+\usepackage{avant}
+\renewcommand*\familydefault{\sfdefault}
+\usepackage[T1]{fontenc}
+
 % Title, Author, Institute
 \title{\parbox{\linewidth}{\centering Evaluación de Estrategias de Obtención de Mediciones EIT para Rastreo de Dispersión de líquidos.}}
 \author{O. F. Cándido-Sánchez}
 \institute{Instituto Tecnológico de Morelia}
-\titlegraphic{\includegraphics[width=5in]{Logo.jpg}}
+\titlegraphic{\includegraphics[width=5in]{Itmorelia.png}}
 %Choose Layout
-\usetheme{Rays}
+\usetheme{desert}
 % Title block with title, author, logo, etc.
 \begin{document}
 \maketitle
 \begin{columns}
 %COLUMN 1
 %Block A
-  \column{.65}
+  \column{.50}
   \block{Más ejemplos de LaTeX}{
   \bigskip
   Se puede agregar cosas en cuadros de colores.\\
@@ -39,7 +70,7 @@
 \blindtext[1]
 }
 %COLUMN 2
-    \column{.35}
+    \column{.50}
     \block{Mas imagenes}{
     \begin{tikzfigure}
       \label{fig:MyFigure}
