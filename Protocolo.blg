@@ -1,21 +1,14 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Protocolo.aux
 The style file: IEEEtran.bst
 Database file #1: bibliography.bib
-I was expecting a `,' or a `}'---line 67 of file bibliography.bib
- : 
- : year = {2010}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 Warning--empty journal in Gnecchi2018
-Warning--empty author in Cancer.org
 Warning--empty journal in Cancer.org
 Warning--empty journal in Mendoza2012
-Warning--empty year in Wang2011
 Warning--empty journal in Teschner2015
 Warning--empty journal in Gnecchi2010
 
 Done.
-(There was 1 error message)
+(There were 5 warnings)

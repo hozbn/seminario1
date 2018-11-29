@@ -127,14 +127,12 @@ INPUT C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts
 INPUT C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/adobe/times/ptmrc7t.tfm
-INPUT imagen1.png
-INPUT ./imagen1.png
+INPUT EITsystem.png
+INPUT ./EITsystem.png
 OUTPUT Protocolo.pdf
-INPUT ./imagen1.png
-INPUT ./imagen1.png
-INPUT ./imagen1.png
-INPUT Protocolo.bbl
-INPUT Protocolo.bbl
+INPUT ./EITsystem.png
+INPUT ./EITsystem.png
+INPUT ./EITsystem.png
 INPUT C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/adobe/times/ptmr7t.vf
 INPUT C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT C:/Users/osben/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
@@ -154,6 +152,13 @@ INPUT C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/adobe/times/ptm
 INPUT C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/adobe/times/ptmr7t.vf
 INPUT C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/adobe/times/ptmri7t.vf
 INPUT C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT imagen1.png
+INPUT ./imagen1.png
+INPUT ./imagen1.png
+INPUT ./imagen1.png
+INPUT ./imagen1.png
+INPUT Protocolo.bbl
+INPUT Protocolo.bbl
 INPUT C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/adobe/times/ptmr7t.vf
 INPUT C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/adobe/times/ptmri7t.vf
 INPUT C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/adobe/times/ptmri8r.tfm

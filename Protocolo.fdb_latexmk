@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Protocolo"] 1542919270 "Protocolo.aux" "Protocolo.bbl" "Protocolo" 1542919477
+["bibtex Protocolo"] 1543451680 "Protocolo.aux" "Protocolo.bbl" "Protocolo" 1543451911
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/bibtex/bst/ieeetran/IEEEtran.bst" 1440618969 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "Protocolo.aux" 1542919476 1251 915f68a5cffaa1161b99c12b80a6eaf7 ""
-  "bibliography.bib" 1542918358 4594 423c3ec8ac1981afd0b6bcc55dd3d73b ""
+  "Protocolo.aux" 1543451910 1515 555fcc00a383754b6594fca6e65583b7 ""
+  "bibliography.bib" 1543446906 7024 4af675da4d70f3e050c5fd6304909c1e ""
   (generated)
-  "Protocolo.bbl"
   "Protocolo.blg"
-["pdflatex"] 1542919473 "Protocolo.tex" "Protocolo.pdf" "Protocolo" 1542919477
+  "Protocolo.bbl"
+["pdflatex"] 1543451907 "Protocolo.tex" "Protocolo.pdf" "Protocolo" 1543451911
   "C:/Users/osben/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1538060761 4161092 c9cbea1df77f2562d8c3a7df3c1cb147 ""
   "C:/Users/osben/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1542903683 83900 99161b983370f35003c35da3c3d29977 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -73,11 +73,12 @@
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/preprint/authblk.sty" 1369145270 7196 985a983ce041cc8959cd31133cba0244 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/psnfss/ot1ptm.fd" 1137135830 961 15056f4a61917ceed3a44e4ac11fcc52 ""
   "C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/subfig/subfig.sty" 1121302610 22049 9ef165ca6df8815c92e693146a376c92 ""
-  "Protocolo.aux" 1542919476 1251 915f68a5cffaa1161b99c12b80a6eaf7 ""
-  "Protocolo.bbl" 1542919271 2261 114d9b6fb985deb1a4d264e7973caba1 "bibtex Protocolo"
-  "Protocolo.tex" 1542919472 4988 b42f93214ca4df7ac77f7b98625fda7a ""
+  "EITsystem.png" 1543266156 118962 14a6c81e25dd535b653449497220d2c6 ""
+  "Protocolo.aux" 1543451910 1515 555fcc00a383754b6594fca6e65583b7 ""
+  "Protocolo.bbl" 1543451680 2733 cb1761effbe67410cb1048e480eb7cbd "bibtex Protocolo"
+  "Protocolo.tex" 1543451906 6651 f328a899ab0387706d2029cdb41936eb ""
   "imagen1.png" 1542292233 29882 b063a1b72a93fb90bd30f45b7c898f40 ""
   (generated)
-  "Protocolo.pdf"
-  "Protocolo.aux"
   "Protocolo.log"
+  "Protocolo.aux"
+  "Protocolo.pdf"

@@ -27,7 +27,9 @@ J.~A. Gutierrez~Gnecchi, ``{Propuesta de proyecto de investigación y
   dispersión de líquidos},'' 2018.
 
 \bibitem{Cancer.org}
-``{Estudios por imágenes del seno recientes y experimentales},'' 2018.
+A.~Cancer~Society,
+  ``{https://www.cancer.org/es/cancer/cancer-de-seno/pruebas-de-deteccion-y-deteccion-temprana-del-cancer-de-seno/estudios-experimentales-por-imagenes-para-los-senos.html},''
+  2018.
 
 \bibitem{Zou2003}
 Y.~Zou and Z.~Guo, ``{A review of electrical impedance techniques for breast
@@ -38,10 +40,11 @@ L.~A. Mendoza~Gómez, ``{Investigacion de la Utilidad de la Espectroscopia de
   Impedancia Eléctrica de Alta Frecuencia para Detección de Cáncer de
   Mama.}'' 2012.
 
-\bibitem{Wang2011}
-Q.~Wang and H.~Wang, ``{Image reconstruction based on expectation maximization
-  method for electrical impedance tomography (EIT),},'' \emph{IEEE
-  International Conference on Imaging Systems and Techniques}.
+\bibitem{5962175}
+Q.~Wang and H.~Wang, ``Image reconstruction based on expectation maximization
+  method for electrical impedance tomography (eit),'' in \emph{2011 IEEE
+  International Conference on Imaging Systems and Techniques}, May 2011, pp.
+  50--54.
 
 \bibitem{Teschner2015}
 E.~Teschner, M.~Imhoff, and S.~Leonhardt, ``{Electrical Impedance Tomography:
@@ -49,6 +52,12 @@ E.~Teschner, M.~Imhoff, and S.~Leonhardt, ``{Electrical Impedance Tomography:
 
 \bibitem{Schwan2003}
 H.~P. Schwan and C.~F. Kay, ``{THE CONDUCTIVITY OF LIVING TISSUES},'' 2006.
+
+\bibitem{4132927}
+M.~H. Choi, T.~Kao, D.~Isaacson, G.~J. Saulnier, and J.~C. Newell, ``A
+  reconstruction algorithm for breast cancer imaging with electrical impedance
+  tomography in mammography geometry,'' \emph{IEEE Transactions on Biomedical
+  Engineering}, vol.~54, no.~4, pp. 700--710, April 2007.
 
 \bibitem{Gnecchi2010}
 J.~A. Gutierrez~Gnecchi, ``{Voltage Controlled Current Source (VCCS) for

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.27)  22 NOV 2018 14:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.27)  28 NOV 2018 18:38
 entering extended mode
 **./Protocolo.tex
 (Protocolo.tex
@@ -313,8 +313,8 @@ LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
 (Protocolo.aux
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
 )
 \openout1 = `Protocolo.aux'.
 
@@ -417,52 +417,60 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 LaTeX Font Info:    Calculating math sizes for size <11> on input line 16.
+<EITsystem.png, id=1, 576.65437pt x 252.19218pt>
+File: EITsystem.png Graphic file (type png)
+<use EITsystem.png>
+Package pdftex.def Info: EITsystem.png  used on input line 38.
+(pdftex.def)             Requested size: 180.67499pt x 79.01381pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--30
-\OT1/ptm/m/n/10 (Elec-tri-cal Im-pe-dan-ce To-mo-graphy: \OT1/ptm/m/it/10 EIT\O
-T1/ptm/m/n/10 ) ha re-ci-bi-do
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{C:/Users/osben/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--30
-
- []
-
-<imagen1.png, id=1, 395.97937pt x 268.00125pt>
+ <./EITsystem.png>]
+<imagen1.png, id=10, 395.97937pt x 268.00125pt>
 File: imagen1.png Graphic file (type png)
 <use imagen1.png>
-Package pdftex.def Info: imagen1.png  used on input line 46.
+Package pdftex.def Info: imagen1.png  used on input line 56.
 (pdftex.def)             Requested size: 180.67499pt x 122.28426pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
 
-(Protocolo.bbl [1{C:/Users/osben/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.
-map}
+ []
+
+(Protocolo.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 30--33
+[]\OT1/ptm/m/n/8 A. Can-cer So-ciety, ``https://www.cancer.org/es/cancer/cancer
+-de-
+ []
 
 
-]) [2
+Underfull \hbox (badness 10000) in paragraph at lines 30--33
+\OT1/ptm/m/n/8 seno/pruebas-de-deteccion-y-deteccion-temprana-del-cancer-de-
+ []
 
- <./imagen1.png>] (Protocolo.aux
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
+) [2 <./imagen1.png>] (Protocolo.aux
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
 ) ) 
 Here is how much of TeX's memory you used:
- 5214 strings out of 492973
- 82858 string characters out of 3126692
- 162042 words of memory out of 3000000
- 9028 multiletter control sequences out of 15000+200000
+ 5228 strings out of 492973
+ 83068 string characters out of 3126692
+ 161053 words of memory out of 3000000
+ 9041 multiletter control sequences out of 15000+200000
  39312 words of font info for 75 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,6n,42p,714b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,6n,42p,695b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.en
 c}<C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8
 a.pfb><C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/u
 tmbi8a.pfb><C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmr8a.pfb><C:/Users/osben/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/times/utmri8a.pfb>
-Output written on Protocolo.pdf (2 pages, 71425 bytes).
+Output written on Protocolo.pdf (2 pages, 190594 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
+ 28 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
